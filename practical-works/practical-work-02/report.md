@@ -14,7 +14,7 @@
 https://github.com/fffitfit2008-star/team-Muz_Arbuz-project.git
 
 ## 3. Структура репозитория
-*(Сюда вставляется скриншот главной страницы вашего GitHub, где видны папки docs, scripts и practical-works)*
+<img width="1920" height="941" alt="2026-10-03_07-59-43" src="https://github.com/user-attachments/assets/35278289-c8f7-4354-a173-3baac9330e73" />
 
 ## 4. Описание распределения обязанностей по работе с репозиторием
 На основе матрицы RACI из СР1, обязанности в Git распределены следующим образом:
