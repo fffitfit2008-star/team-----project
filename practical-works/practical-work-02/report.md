@@ -11,7 +11,7 @@
 * Симонов Никита (Тестировщик): @[Логин_Никиты_С]
 
 ## 2. Ссылка на командный репозиторий
-https://github.com
+https://github.com/fffitfit2008-star/team-Muz_Arbuz-project.git
 
 ## 3. Структура репозитория
 *(Сюда вставляется скриншот главной страницы вашего GitHub, где видны папки docs, scripts и practical-works)*
